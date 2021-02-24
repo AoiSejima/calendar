@@ -38,6 +38,7 @@ p {
 .popup:hover {
 }
 
+
 .modal-header {
     background-color: skyblue;
 }
@@ -47,6 +48,7 @@ p {
 }
   
 .modal-content {
+    display: block;
     position: absolute;
     background-color: white;
     width: 50rem;
